@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.l0MLLx4M.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"download/test.md","filePath":"download/test.md"}'),o={name:"download/test.md"};function s(n,r,d,c,p,_){return a(),e("div")}const m=t(o,[["render",s]]);export{l as __pageData,m as default};
