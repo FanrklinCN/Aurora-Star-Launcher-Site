@@ -6,7 +6,7 @@ export default defineConfig({
   description: "一款Minecraft启动器",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../img/logo.png',
+    logo: '.../img/logo.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '用户文档', link: '/user-docs/introduced' }
