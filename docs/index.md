@@ -16,9 +16,5 @@ features:
     details: 超快的启动核心（StarLight_Core）。
   - title: 安全
     details: 我们不会收集你的任何信息
-footer: {
-      message: '邮箱：thz@thzstudent.top',
-      copyright: 'Aurora Studio. 软件以GPL3.0在GitHub、Gitee、GitCode免费开源，任何人不得以任何非法行为修改或贩卖此软件的副本！'
-    },
 ---
 
