@@ -4,15 +4,11 @@ layout: home
 hero:
   name: "Aurora Star Launcher"
   text: "一款简洁高效的Minecarft启动器"
-  tagline: My great project tagline
+  tagline: 安全、快速、简洁。
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
+      text: 开始使用
+      link: /user-docs/get-started
 features:
   - title: 现代
     details: 现代化的界面，使你赏心悦目。
@@ -21,4 +17,6 @@ features:
   - title: 安全
     details: 我们不会收集你的任何信息
 ---
-
+<p> 
+Copyright (c) Aurora Studio & THZ同学 .
+</p>
